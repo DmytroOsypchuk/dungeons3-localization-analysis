@@ -68,7 +68,7 @@ Character involvement across Missions/Events (words heatmap)
 - **Google Sheets** – for cleaning, classification, and notes.  
 - **Tableau** – for visualization and exploration of key insights.  
 
-*(Detailed workflow with Google Sheets will be described in [`/docs/workflow.md`].)*
+*(Detailed workflow with Google Sheets will be described in [`/docs/workflow.md`](./docs/workflow.md).)*
 
 ---
 
@@ -102,3 +102,4 @@ It can serve both as:
 
 ## Author
 Created as part of a fan localization project for **Dungeons 3**, with the goal of improving translation workflows through data analysis and visualization by **Dmytro Osypchuk**.
+
